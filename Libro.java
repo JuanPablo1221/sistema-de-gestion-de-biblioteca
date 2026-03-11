@@ -9,7 +9,6 @@ public class Libro extends MaterialBibliografico {
         setAutor(autor);
     }
     
-    // Getters y Setters con validaciones
     public int getNumeroPaginas() {
         return numeroPaginas;
     }
